@@ -202,10 +202,4 @@ if __name__=='__main__':
     LCD.write_text("ALREADY EXISTS WTF",10,158,2,LCD.WHITE)
     
     LCD.show()
-    
-    i = False
-    while True:
-        i = not i
-
-
 
